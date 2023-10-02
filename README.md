@@ -9,3 +9,4 @@ Just another one line in TEST_BRANCH
 Test new line in TEST_BRANCH
 Just a line in TEST_BRANCH
 New line in MAIN branch
+New line in remote MAIN branch
